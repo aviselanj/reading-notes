@@ -7,4 +7,4 @@ Growth mindset is a mindset that is always in a constant state of progression. I
 3. Remember that you are always learning
 
 [github](https://github.com)
-![image of Avielle Lewis](img_0142.jpg)
+![image of Avielle Lewis](IMG_0142.JPG)
