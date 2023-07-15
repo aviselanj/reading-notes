@@ -8,4 +8,5 @@ Growth mindset is a mindset that is always in a constant state of progression. I
 
 I am Avielle Lewis and I am an up and coming web developer from New Orleans. My favorite movies are The Terminator and The Matrix because they are computer programming based. Computer programming is my passion. I love to build and create with words. 
 ![image of Avielle Lewis](IMG_0142.JPG)
-[Avielle Lewis](https://github.com/aviselanj)https://github.com/aviselanj)
+
+[Avielle Lewis](https://github.com/aviselanj)
