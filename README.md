@@ -21,7 +21,7 @@ I am a highly motivated student of web development and computer programming. I l
 
 [class 03](code-102/class-03.md)
 
-[class 04](code-102/class-04.md)
+[class 04](code-102/class-04.html)
 
 [class 05](code-102/class-05.md)
 
