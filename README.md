@@ -37,6 +37,10 @@ I am a highly motivated student of web development and computer programming. I l
 
 ## Code 201 - Foundations of Software Development
 
+### Prepwork
+
+[ai and prompt engineering](promt-engineering.md)
+
 [class 01](code-201/class-01.md)
 
 [class 02](code-201/class-02.md)
@@ -70,5 +74,3 @@ I am a highly motivated student of web development and computer programming. I l
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
-
-[ai and prompt engineering](promt-engineering.md)
