@@ -1,15 +1,16 @@
 Growing mushrooms can be a fascinating and rewarding hobby. Here's a general outline of how to grow mushrooms at home, using the commonly cultivated variety, the "Psilocybe cubensis." However, please note that this is for educational purposes only and should not be used for cultivating any illegal or potentially dangerous substances.
 
-Materials you will need:
+# Materials you will need
 
-Mushroom spores or a mushroom spore syringe (legal and edible mushroom varieties can be obtained from reputable suppliers).
-Substrate material (commonly used are brown rice flour, vermiculite, and perlite).
-Large mixing bowl.
-Sterilization equipment (pressure cooker or canning pot).
-Glass jars or containers with lids (for colonizing the substrate).
-Plastic storage tub or terrarium for fruiting the mushrooms.
-Spray bottle for misting.
-Step-by-step process:
+1. Mushroom spores or a mushroom spore syringe (legal and edible mushroom varieties can be obtained from reputable suppliers).
+2. Substrate material (commonly used are brown rice flour, vermiculite, and perlite).
+3. Large mixing bowl.
+4. Sterilization equipment (pressure cooker or canning pot).
+5. Glass jars or containers with lids (for colonizing the substrate).
+6. Plastic storage tub or terrarium for fruiting the mushrooms.
+7. Spray bottle for misting.
+
+# Step-by-step process
 
 Preparation: Start by sterilizing all your equipment to prevent contamination during the mushroom-growing process. This involves cleaning and sterilizing your work area, jars, utensils, and any other materials you'll be using.
 
