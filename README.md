@@ -1,11 +1,15 @@
 # reading-notes
 
-## All About Me!
+### About website
+
+This website is about everything that Ive leared here with CodeX
+
+## All About Me
 
 I am a highly motivated student of web development and computer programming. I love to build and create with words.Coding is my favorite hobby, passion and soon to be livelihood.
 **Check me out on GITHUB!** [Avielle Lewis](https://github.com/aviselanj)
 
-#### My advice to other up and  coming developers.
+#### My advice to other up and  coming developers
 
 1. Be persistant
 2. Mistakes are opprotunities for learning
@@ -13,7 +17,7 @@ I am a highly motivated student of web development and computer programming. I l
 
 **Table of Content**
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [class 01](code-102/class-01.md)
 
@@ -31,8 +35,7 @@ I am a highly motivated student of web development and computer programming. I l
 
 [class 08](code-102/class-08.md)
 
-
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [class 01](code-201/class-01.md)
 
@@ -63,3 +66,7 @@ I am a highly motivated student of web development and computer programming. I l
 [class 14](code-201/class-14.md)
 
 [class 15](code-201/class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
