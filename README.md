@@ -39,7 +39,7 @@ I am a highly motivated student of web development and computer programming. I l
 
 ### Prepwork
 
-[ai and prompt engineering](promt-engineering.md)
+[ai and prompt engineering](prompt-engineering.md)
 
 [class 01](code-201/class-01.md)
 
