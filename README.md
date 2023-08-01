@@ -70,3 +70,5 @@ I am a highly motivated student of web development and computer programming. I l
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
+
+[ai and prompt engineering](promt-engineering.md)
