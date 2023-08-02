@@ -38,6 +38,10 @@ HTML is a hyper text markdown languauge that displays text and images. Its basic
 
 Google free images and a great number of websites containing images will be at your disposal.
 
-4. How do you create a String vs a Number in JavaScript? Anumber is literally a number, a string however has quotations around it.
+4. How do you create a String vs a Number in JavaScript?
 
-5. What is a Variable and why are they important in JavaScript? A variable is a defined structure in JavaScript.
+A string is anything surounded by quotatons. A number is just a number.
+
+5. What is a Variable and why are they important in JavaScript?
+
+A variable is a defined structure in JavaScript.
