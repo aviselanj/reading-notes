@@ -5,16 +5,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style></style>
+    <style>
+        body {
+            background: aquamarine;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .color1 {
+            color: aqua;
+            background-color: black;
+        }
+
+        .color2 {
+            color: rgb(255, 0, 221);
+            background-color: rgb(30, 15, 15);
+        }
+
+        .color3 {
+            color: rgb(0, 255, 13);
+            background-color: rgb(0, 0, 0);
+        }
+
+        .color4 {
+            color: rgb(217, 255, 0);
+            background-color: rgb(54, 45, 45);
+        }
+
+        section {
+            border: 1em solid slategray;
+            border-radius: 60%;
+            padding: 1em;
+        }
+    </style>
 </head>
 
 <body>
+    <h1>Avi's Lab: Class 01 Assignment</h1>
     <script>
         // Prompt the user and store their answers in variables
-        var name = prompt("What is your name?");
-        var age = prompt("How old are you?");
-        var city = prompt("Which city do you live in?");
-        var hobby = prompt("What is your favorite hobby?");
+        let name = prompt("What is your name?");
+        let age = prompt("How old are you?");
+        let city = prompt("Which city do you live in?");
+        let hobby = prompt("What is your favorite hobby?");
 
         // Display the user's answers
         alert("Hello, " + name + "!");
@@ -24,18 +59,20 @@
     </script>
     <header></header>
     <main>
-        <p class="color1">
-            What is your name?
-        </p>
-        <p class="color2">
-            How old are you?
-        </p>
-        <p class="color3">
-            Which city do you live in?
-        </p>
-        <p class="color4">
-            What is your favorite hobby?
-        </p>
+        <section>
+            <p class="color1">
+                What is your name?
+            </p>
+            <p class="color2">
+                How old are you?
+            </p>
+            <p class="color3">
+                Which city do you live in?
+            </p>
+            <p class="color4">
+                What is your favorite hobby?
+            </p>
+        </section>
     </main>
     <footer></footer>
 </body>
